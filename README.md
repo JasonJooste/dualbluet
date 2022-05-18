@@ -6,4 +6,6 @@ Bluetooth devices share a secret key for authentiction that is matched to the de
 # Steps
 1. Connect to all bluetooth devices from Linux
 2. Connect to all bluetooth devices from Windows
-3. Run dualbluet, which will take all of the correct keys 
+3. Run dualbluet, which will copy the correct keys from Windows over to Linux
+
+I've only tested this script on my own device so YMMV. Let me know if it doesn't work for you and maybe we can figure it out!
